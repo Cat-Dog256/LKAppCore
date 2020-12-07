@@ -1,0 +1,8 @@
+${PODS_ROOT}/Target Support Files/Pods-LKAppCore-LKAppCoreUITests/Pods-LKAppCore-LKAppCoreUITests-frameworks.sh
+${BUILT_PRODUCTS_DIR}/AFNetworking/AFNetworking.framework
+${BUILT_PRODUCTS_DIR}/DZNEmptyDataSet/DZNEmptyDataSet.framework
+${BUILT_PRODUCTS_DIR}/LKEasyUI/LKEasyUI.framework
+${BUILT_PRODUCTS_DIR}/LKNetwork/LKNetwork.framework
+${BUILT_PRODUCTS_DIR}/MJExtension/MJExtension.framework
+${BUILT_PRODUCTS_DIR}/MJRefresh/MJRefresh.framework
+${BUILT_PRODUCTS_DIR}/YTKNetwork/YTKNetwork.framework

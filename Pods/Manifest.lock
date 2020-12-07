@@ -1,0 +1,59 @@
+PODS:
+  - AFNetworking (4.0.1):
+    - AFNetworking/NSURLSession (= 4.0.1)
+    - AFNetworking/Reachability (= 4.0.1)
+    - AFNetworking/Security (= 4.0.1)
+    - AFNetworking/Serialization (= 4.0.1)
+    - AFNetworking/UIKit (= 4.0.1)
+  - AFNetworking/NSURLSession (4.0.1):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (4.0.1)
+  - AFNetworking/Security (4.0.1)
+  - AFNetworking/Serialization (4.0.1)
+  - AFNetworking/UIKit (4.0.1):
+    - AFNetworking/NSURLSession
+  - DZNEmptyDataSet (1.8.1)
+  - LKEasyUI (0.1.0):
+    - DZNEmptyDataSet
+    - MJRefresh
+  - LKNetwork (0.1.0):
+    - AFNetworking
+    - MJExtension
+    - YTKNetwork
+  - MJExtension (3.2.2)
+  - MJRefresh (3.5.0)
+  - YTKNetwork (3.0.4):
+    - AFNetworking/NSURLSession (~> 4.0)
+
+DEPENDENCIES:
+  - LKEasyUI (from `Lib/LKEasyUI`)
+  - LKNetwork (from `Lib/LKNetwork`)
+
+SPEC REPOS:
+  trunk:
+    - AFNetworking
+    - DZNEmptyDataSet
+    - MJExtension
+    - MJRefresh
+    - YTKNetwork
+
+EXTERNAL SOURCES:
+  LKEasyUI:
+    :path: Lib/LKEasyUI
+  LKNetwork:
+    :path: Lib/LKNetwork
+
+SPEC CHECKSUMS:
+  AFNetworking: 7864c38297c79aaca1500c33288e429c3451fdce
+  DZNEmptyDataSet: 9525833b9e68ac21c30253e1d3d7076cc828eaa7
+  LKEasyUI: e632034d6552536b523a07788f46f8902a13c880
+  LKNetwork: 6d443894fbde217519ca67504edc7098a124f8be
+  MJExtension: d9b9c74cbdeb724c1e9ecbb157b318276e62e876
+  MJRefresh: 6afc955813966afb08305477dd7a0d9ad5e79a16
+  YTKNetwork: a096f80c18c7e7cc0e623a0fbea0a1bfd3f5bcf2
+
+PODFILE CHECKSUM: 786529359e8cc29137fcd8b6e52128c1ee67f411
+
+COCOAPODS: 1.9.1
